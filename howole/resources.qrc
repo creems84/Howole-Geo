@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/howole" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
